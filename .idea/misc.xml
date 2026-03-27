@@ -3,9 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (chest_xray_flask)" />
   </component>
-  <component name="DiscordProjectSettings">
-    <option name="show" value="ASK" />
-    <option name="description" value="" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Basic_Datascience_4ML)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Basic_DataScience-4ML)" project-jdk-type="Python SDK" />
 </project>
